@@ -30,3 +30,9 @@ out/
 /build_xcode/
 /cmake-gen.bat
 /line-ending-check.bat
+/bin/Debug-windows-x86_64
+/bin-int/Debug-windows-x86_64
+/bin/Dist-windows-x86_64
+/bin-int/Dist-windows-x86_64
+/msdfgen.vcxproj
+/msdfgen.vcxproj.filters

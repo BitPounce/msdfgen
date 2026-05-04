@@ -109,7 +109,8 @@ project "msdfgen"
 	includedirs
 	{
 		"include",
-		"freetype/include"
+		"freetype/include",
+		"core"
 	}
 
 	defines
